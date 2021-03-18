@@ -2,7 +2,7 @@
 ## Introduction 
 
 ## Dataset
-SemEval Task 11 propganda dataset has been used in this work.
+[SemEval Task 11](https://propaganda.qcri.org/semeval2020-task11/leaderboard.php) propganda dataset has been used in this work.
 ## Model 
 BERT and RoBERTa pre-trained models have been fine-tuned to detect propaganda techniques in English news articles.
 
